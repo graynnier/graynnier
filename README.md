@@ -1,8 +1,7 @@
 ## Hi there👋, I'm George Cardozo.
-## This is my corner of the web, where you'll find out what I do!
+## This is my corner of the web, where you'll find out what I do!😄
 <img width="1584" height="396" alt="George Cardozo Banner _Github2" src="https://github.com/user-attachments/assets/72e7adac-1490-4467-a24f-568411e64a74" />
-
-## I am currently working on my future portfolio and personal projects.
+✨I am currently working on my future portfolio, personal projects and professional growth.✨
 <!--
 **graynnier/graynnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
